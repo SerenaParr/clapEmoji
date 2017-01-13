@@ -1,0 +1,17 @@
+{
+  "name": "gulp-template",
+  "description": "My gulp template",
+  "author": "Serena Parr",
+  "contributors": [
+    {
+      "name": "Serena Parr",
+      "email": "serena.parr@gmail.com"
+    }
+  ],
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "emoji-data": "^0.2.0",
+    "twit": "^2.2.5"
+  }
+}
